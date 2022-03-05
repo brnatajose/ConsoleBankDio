@@ -1,0 +1,5 @@
+C:\Users\brnat\source\repos\ForDevs Fintech\obj\Debug\net5.0\ForDevs Fintech.csproj.AssemblyReference.cache
+C:\Users\brnat\source\repos\ForDevs Fintech\obj\Debug\net5.0\ForDevs Fintech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brnat\source\repos\ForDevs Fintech\obj\Debug\net5.0\ForDevs Fintech.AssemblyInfoInputs.cache
+C:\Users\brnat\source\repos\ForDevs Fintech\obj\Debug\net5.0\ForDevs Fintech.AssemblyInfo.cs
+C:\Users\brnat\source\repos\ForDevs Fintech\obj\Debug\net5.0\ForDevs Fintech.csproj.CoreCompileInputs.cache
